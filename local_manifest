@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/oppo/A37" name="android_device_oppo_A37" remote="github" revision="lineage-19.1" />
+ <project path="device/cyanogen/msm8916-common" name="android_device_cyanogen_msm8916-common-oppo" remote="github" revision="lineage-19.1" />
+ <project path="vendor/oppo" name="proprietary_vendor_oppo_A37" remote="tgitlab" revision="lineage-19.1" />
+ <project path="kernel/oppo/msm8937" name="android_kernel_oppo_msm8916" remote="tgitlab" revision="deepak-test-branch/lineage-19.1" />
+ <project path="hardware/qcom-caf/msm8916/audio" name="LineageOS/android_hardware_qcom_audio" remote="github" revision="lineage-19.0-caf-msm8916" />
+ <project path="hardware/qcom-caf/msm8916/display" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-19.0-caf-msm8916" />
+ <project path="hardware/qcom-caf/msm8916/media" name="LineageOS/android_hardware_qcom_media" remote="github" revision="lineage-19.0-caf-msm8916" />
+ 
+</manifest>
